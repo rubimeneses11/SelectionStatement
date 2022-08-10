@@ -1,0 +1,14 @@
+/Users/luisangelmeneses/Desktop/repos/SelectionStatement/SelectionStatement/bin/Debug/netcoreapp3.1/SelectionStatement
+/Users/luisangelmeneses/Desktop/repos/SelectionStatement/SelectionStatement/bin/Debug/netcoreapp3.1/SelectionStatement.deps.json
+/Users/luisangelmeneses/Desktop/repos/SelectionStatement/SelectionStatement/bin/Debug/netcoreapp3.1/SelectionStatement.runtimeconfig.json
+/Users/luisangelmeneses/Desktop/repos/SelectionStatement/SelectionStatement/bin/Debug/netcoreapp3.1/SelectionStatement.runtimeconfig.dev.json
+/Users/luisangelmeneses/Desktop/repos/SelectionStatement/SelectionStatement/bin/Debug/netcoreapp3.1/SelectionStatement.dll
+/Users/luisangelmeneses/Desktop/repos/SelectionStatement/SelectionStatement/bin/Debug/netcoreapp3.1/SelectionStatement.pdb
+/Users/luisangelmeneses/Desktop/repos/SelectionStatement/SelectionStatement/obj/Debug/netcoreapp3.1/SelectionStatement.csproj.AssemblyReference.cache
+/Users/luisangelmeneses/Desktop/repos/SelectionStatement/SelectionStatement/obj/Debug/netcoreapp3.1/SelectionStatement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luisangelmeneses/Desktop/repos/SelectionStatement/SelectionStatement/obj/Debug/netcoreapp3.1/SelectionStatement.AssemblyInfoInputs.cache
+/Users/luisangelmeneses/Desktop/repos/SelectionStatement/SelectionStatement/obj/Debug/netcoreapp3.1/SelectionStatement.AssemblyInfo.cs
+/Users/luisangelmeneses/Desktop/repos/SelectionStatement/SelectionStatement/obj/Debug/netcoreapp3.1/SelectionStatement.csproj.CoreCompileInputs.cache
+/Users/luisangelmeneses/Desktop/repos/SelectionStatement/SelectionStatement/obj/Debug/netcoreapp3.1/SelectionStatement.dll
+/Users/luisangelmeneses/Desktop/repos/SelectionStatement/SelectionStatement/obj/Debug/netcoreapp3.1/SelectionStatement.pdb
+/Users/luisangelmeneses/Desktop/repos/SelectionStatement/SelectionStatement/obj/Debug/netcoreapp3.1/SelectionStatement.genruntimeconfig.cache
